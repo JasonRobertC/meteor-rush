@@ -6,7 +6,7 @@ Music credits: 'Battle Theme' by Alex Smith, 'Level 1' by Juhani Junkala, 'Froze
 
 - Tested on Python 3, not tested on Python 2. 
 
-- Requires Pygame module (https://www.pygame.org/wiki/GettingStarted). 
+- Requires Pygame module (installation info here: https://www.pygame.org/wiki/GettingStarted). 
 
 - Extract contents of ZIP file into a new directory, and run the game file. 
 
