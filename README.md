@@ -1,4 +1,5 @@
 Meteor Rush v26 (publicly shared version 1.0)
+
 Coding, graphics, and sound: Jason R. Carroll (Twitter: @JasonRobertC)
 
 - Music credits: 'Battle Theme' by Alex Smith, 'Level 1' by Juhani Junkala, 'Frozen Jam' by Jordan Trudgett
